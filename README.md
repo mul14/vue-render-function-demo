@@ -1,12 +1,10 @@
-# coba
-
-> A Vue.js project
+# Vue 2.0 render function - Demo
 
 ## Build Setup
 
 ``` bash
 # install dependencies
-npm install
+yarn
 
 # serve with hot reload at localhost:8080
 npm run dev
